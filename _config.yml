@@ -55,6 +55,8 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
+# TODO Añadir los comentarios y modifcar el about me
+
 # Web Analytics Settings
 analytics:
   google:
