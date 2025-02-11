@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Sobre mí
-
 ¡Hola! 👋 Soy **Gabriel F. Guiberteau García**, estudiante de último año de **Ingeniería Informática en Ingeniería del Software** en la Escuela Politécnica de Cáceres. Desde pequeño, me debatía entre ser profesor de matemáticas o pirata, pero la programación terminó siendo mi mayor aventura.
 
 A lo largo de mis estudios, he adquirido experiencia en programación, diseño de sistemas y desarrollo de aplicaciones. Este blog es mi manera de compartir lo que aprendo, ayudar a otros desarrolladores y, sobre todo, continuar mi propio proceso de aprendizaje.
@@ -32,3 +30,13 @@ Si disfrutas del contenido de este blog y te gustaría apoyarme, aquí te dejo a
 
 Tu apoyo me ayuda a seguir creando contenido y compartirlo con otros. ¡Gracias por ser parte de esta aventura! 🚀
 
+<!-- Añadir el script de Ko-fi -->
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('goblindevtips', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Support me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
