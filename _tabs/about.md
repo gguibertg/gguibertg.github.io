@@ -29,14 +29,3 @@ Si disfrutas del contenido de este blog y te gustaría apoyarme, aquí te dejo a
 - **Ko-fi:** [ko-fi.com/goblindevtips](https://ko-fi.com/goblindevtips)
 
 Tu apoyo me ayuda a seguir creando contenido y compartirlo con otros. ¡Gracias por ser parte de esta aventura! 🚀
-
-<!-- Añadir el script de Ko-fi -->
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('goblindevtips', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support me',
-    'floating-chat.donateButton.background-color': '#794bc4',
-    'floating-chat.donateButton.text-color': '#fff'
-  });
-</script>
