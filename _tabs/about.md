@@ -28,7 +28,7 @@ Si disfrutas del contenido de este blog y te gustaría apoyarme, aquí te dejo a
 
 - **Donación directa:** [paypal.me/gobIinl](https://paypal.me/gobIinl)  
 - **Descarga mis apuntes:** [Mis apuntes en Wuolah](https://wuolah.com/profile/Goblinl)  
-- **Ko-fi:** [ko-fi.com/goblinDevTips](https://ko-fi.com/goblinDevTips)
+- **Ko-fi:** [ko-fi.com/goblindevtips](https://ko-fi.com/goblindevtips)
 
 Tu apoyo me ayuda a seguir creando contenido y compartirlo con otros. ¡Gracias por ser parte de esta aventura! 🚀
 
