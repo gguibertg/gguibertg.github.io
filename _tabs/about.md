@@ -20,6 +20,11 @@ En **GoblinDevTips**, encontrarás consejos prácticos sobre programación, desa
 
 ---
 
+## 📄 Mi CV
+Puedes descargar mi CV aquí: [📄 Descargar CV](/assets/cv.pdf)
+
+---
+
 ## ¿Cómo puedes apoyarme?
 
 Si disfrutas del contenido de este blog y te gustaría apoyarme, aquí te dejo algunas opciones:
