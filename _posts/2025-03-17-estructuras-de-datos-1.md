@@ -144,7 +144,7 @@ Los arrays estáticos son recomendables cuando:
 - Se necesita **máxima eficiencia** en tiempo de acceso y uso de memoria.
 - La aplicación no requiere modificaciones frecuentes del tamaño del array.
 
-## 💡 Ejemplos de aplicaciones prácticas:
+### 💡 Ejemplos de aplicaciones prácticas
 
 - Almacenamiento de **matrices fijas** en gráficos y videojuegos.
 - Gestión de **buffers** en sistemas embebidos.
@@ -154,5 +154,7 @@ Utiliza arrays estáticos para tareas donde el control de recursos y la predicti
 {:.prompt-tip }
 
 <!-- Añadir la comparativa final con el resto de Estructuras -->
+
+---
 
 > "Cuando haces las cosas bien, la gente no está segura de si realmente hiciste algo." – Dios, Futurama
