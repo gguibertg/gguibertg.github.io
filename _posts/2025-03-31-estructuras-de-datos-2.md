@@ -1,6 +1,6 @@
 ---
 title: "Listas Enlazadas"
-date: 2025-03-17
+date: 2025-03-31
 layout: post
 categories: [Programación, Estructuras de Datos]
 tags: [C++, Python]
