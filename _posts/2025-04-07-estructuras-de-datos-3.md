@@ -1,6 +1,6 @@
 ---
-title: "Pilas"
-date: 2025-03-31
+title: "🧱 Pilas"
+date: 2025-04-07
 layout: post
 categories: [Programación, Estructuras de Datos]
 tags: [C++, Python]
