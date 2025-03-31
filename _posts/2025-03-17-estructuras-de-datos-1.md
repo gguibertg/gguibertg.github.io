@@ -153,7 +153,17 @@ Los arrays estáticos son recomendables cuando:
 Utiliza arrays estáticos para tareas donde el control de recursos y la predictibilidad son más importantes que la flexibilidad.
 {:.prompt-tip }
 
-<!-- Añadir la comparativa final con el resto de Estructuras -->
+---
+
+## ⚖️ 7. Comparativa de Complejidad Temporal con otras estructuras de datos
+
+| **Operación**    | **Arrays Estáticos** | **Listas Enlazadas** |
+| ---------------- | -------------------- | -------------------- |
+| **Acceso**       | O(1)                 | O(n)                 |
+| **Inserción**    | O(n)                 | O(1)–O(n)            |
+| **Borrado**      | O(n)                 | O(1)–O(n)            |
+| **Modificación** | O(1)                 | O(n)                 |
+| **Búsqueda**     | O(n)                 | O(n)                 |
 
 ---
 
