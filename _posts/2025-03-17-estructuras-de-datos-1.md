@@ -1,5 +1,5 @@
 ---
-title: "Arrays estáticos"
+title: "🧮 Arrays estáticos"
 date: 2025-03-17
 layout: post
 categories: [Programación, Estructuras de Datos]
@@ -7,7 +7,7 @@ tags: [C++, Python]
 description: "Guía completa sobre arrays estáticos con teoría, operaciones y ejemplos en C++ y Python."
 ---
 
-# 📦 Arrays Estáticos
+# 🧮 Arrays Estáticos
 
 ## 📘 1. ¿Qué es un Array?
 

@@ -1,5 +1,5 @@
 ---
-title: "Listas Enlazadas"
+title: "🔗 Listas Enlazadas"
 date: 2025-03-31
 layout: post
 categories: [Programación, Estructuras de Datos]
@@ -148,7 +148,7 @@ Las listas enlazadas son útiles cuando:
 
 ---
 
-## ⚖️ 7. Comparativa de Complejidad Temporal entre Arrays Estáticos y Listas Enlazadas
+## ⚖️ 7. Comparativa de Complejidad Temporal con otras estructuras de datos
 
 | **Operación**    | **Arrays Estáticos** | **Listas Enlazadas** |
 | ---------------- | -------------------- | -------------------- |
@@ -160,4 +160,4 @@ Las listas enlazadas son útiles cuando:
 
 ---
 
-"El universo es grande. Es vasto, complicado y ridículo. Y, a veces, muy raramente, suceden cosas imposibles y las llamamos milagros." – El Doctor, Doctor Who (Onceavo Doctor)
+> "El universo es grande. Es vasto, complicado y ridículo. Y, a veces, muy raramente, suceden cosas imposibles y las llamamos milagros." – El Doctor, Doctor Who (Onceavo Doctor)
