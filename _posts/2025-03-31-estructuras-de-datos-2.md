@@ -148,15 +148,13 @@ Las listas enlazadas son útiles cuando:
 
 ---
 
-## ⚖️ 7. Comparativa de Complejidad Temporal con otras estructuras de datos
+## ⚖️ 7. ¿Qué estructura usar según el problema?
 
-| **Operación**    | **Arrays Estáticos** | **Listas Enlazadas** |
-| ---------------- | -------------------- | -------------------- |
-| **Acceso**       | O(1)                 | O(n)                 |
-| **Inserción**    | O(n)                 | O(1)–O(n)            |
-| **Borrado**      | O(n)                 | O(1)–O(n)            |
-| **Modificación** | O(1)                 | O(n)                 |
-| **Búsqueda**     | O(n)                 | O(n)                 |
+| 🧩 **Estructura**     | 📌 **Úsala cuando...**                                         | 💡 **Ejemplos**                                                          |
+| -------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 🧮 **Array Estático** | Sabes el tamaño de antemano y necesitas acceso directo rápido | Tablas de datos, buffers, matrices                                      |
+| 🔗 **Lista Enlazada** | Inserciones y eliminaciones frecuentes                        | Listas dinámicas, administración de memoria, estructuras personalizadas |
+| 🥞 **Pila**           | Necesitas revertir, deshacer o volver atrás                   | Historial de acciones, evaluación de expresiones, DFS                   |
 
 ---
 

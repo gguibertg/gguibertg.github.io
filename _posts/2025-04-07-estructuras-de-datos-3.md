@@ -1,5 +1,5 @@
 ---
-title: "🧱 Pilas"
+title: "🥞 Pilas"
 date: 2025-04-07
 layout: post
 categories: [Programación, Estructuras de Datos]
@@ -7,7 +7,7 @@ tags: [C++, Python]
 description: "Guía práctica sobre pilas: teoría, operaciones, ejemplos y código en C++ y Python."
 ---
 
-# 🧱 Pilas
+# 🥞 Pilas
 
 ## 📘 1. ¿Qué es una Pila?
 
@@ -144,19 +144,13 @@ Las pilas son ideales cuando:
 
 ---
 
-## ⚖️ 7. Comparativa de Complejidad Temporal con otras estructuras de datos
+## ⚖️ 7. ¿Qué estructura usar según el problema?
 
-| **Operación** | **Arrays Estáticos** | **Pilas (`list`)** | **Listas Enlazadas** |
-| ------------- | -------------------- | ------------------ | -------------------- |
-| **Push**      | O(1) – O(n)*         | O(1)               | O(1) – O(n)          |
-| **Pop**       | O(1)                 | O(1)               | O(1) – O(n)          |
-| **Peek/Top**  | O(1)                 | O(1)               | O(n)                 |
-| **Acceso**    | O(1)                 | O(n)               | O(n)                 |
-| **Borrado**   | O(n)                 | O(1)               | O(1) – O(n)          |
-| **Búsqueda**  | O(n)                 | O(n)               | O(n)                 |
-
-> \* En arrays estáticos, push puede ser O(n) si implica redimensionamiento del array.
-{:.prompt-warning }
+| 🧩 **Estructura**     | 📌 **Úsala cuando...**                                         | 💡 **Ejemplos**                                                          |
+| -------------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| 🧮 **Array Estático** | Sabes el tamaño de antemano y necesitas acceso directo rápido | Tablas de datos, buffers, matrices                                      |
+| 🔗 **Lista Enlazada** | Inserciones y eliminaciones frecuentes                        | Listas dinámicas, administración de memoria, estructuras personalizadas |
+| 🥞 **Pila**           | Necesitas revertir, deshacer o volver atrás                   | Historial de acciones, evaluación de expresiones, DFS                   |
 
 ---
 
