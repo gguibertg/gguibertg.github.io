@@ -1,8 +1,10 @@
 ---
 title: "🚀 Las Mejores Extensiones para Visual Studio Code"
-date: 2025-02-17 18:00:00 +0100
+date: 2025-02-17
 categories: [Programación, Herramientas]
 tags: [VSCode, productividad]
+description: "Descubre las mejores extensiones para Visual Studio Code que te ayudarán a programar más rápido, con más estilo y productividad. ¡Optimiza tu editor como un pro!"
+author: gabriel
 ---
 
 ## 🚀 Potencia Visual Studio Code con las Mejores Extensiones
