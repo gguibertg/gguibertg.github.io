@@ -16,7 +16,7 @@ Las **pilas (stacks)** son estructuras de datos fundamentales que siguen una ló
 
 ---
 
-## 📘 ¿Qué es una Stack?
+## 📘 ¿Qué es un Stack?
 
 Un **stack** (o pila) es una estructura de datos lineal que sigue el principio **LIFO** (*Last In, First Out*), lo que significa que el **último elemento que se agrega es el primero en salir**.
 
