@@ -297,5 +297,5 @@ Cuéntame qué parte te pareció más clara o qué estructura te gustaría que a
 
 ---
 
-🗨️ *“No puedes saltarte la cola. Así no funciona.”
+🗨️ “No puedes saltarte la cola. Así no funciona.”
 — **TVA Agent, Loki (2021, Marvel)**
